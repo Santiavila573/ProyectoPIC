@@ -27,9 +27,10 @@ La **Calculadora de Funciones Lineales (Consola)** es un proyecto estudiantil de
 - La aplicación realizará los cálculos correspondientes y mostrará los resultados en la consola.
   
 ## Contribuciones
-- **Santiago Ávila**
-- **Christian Méndez**
-- **Elihu Quistial**
+- Santiago Ávila.
+- Christian Méndez.
+- Elihu Quistial.
+  
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia relacionada con este proyecto estudiantil, no dudes en ponerte en contacto con el equipo de desarrollo.
